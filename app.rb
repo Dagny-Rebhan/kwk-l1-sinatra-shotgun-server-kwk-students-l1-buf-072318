@@ -10,4 +10,8 @@ class App < Sinatra::Base
 get '/nick' do
   "whats up itsyoboi nick"
 end
+get '/liza' do 
+  "lookin fresh"
+  
+end
 end
